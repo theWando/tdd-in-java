@@ -1,4 +1,4 @@
-package hello_world;
+package com.x0000ff.tddinjava;
 
 public class App {
 
